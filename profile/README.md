@@ -2,10 +2,10 @@
 
 ## Services
 
-* Website: https://bitmase.io/
-* Documentation: https://docs.bitmase.io/
-* API: https://api.bitmase.io/
-* CoinJoin: https://cj.bitmase.io/
+* Website: https://bitmase.org/
+* Documentation: https://docs.bitmase.org/
+* API: https://api.bitmase.org/
+* CoinJoin: https://bitmase.io/
 
 ## Media
 
